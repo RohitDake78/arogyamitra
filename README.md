@@ -84,12 +84,6 @@ ArogyaMitra/
 
 > SQLite is used by default — no database setup needed.
 
-### 1. Clone & Setup
-
-```bash
-git clone https://github.com/schrodingerspet/ArogyaMitra.git
-cd ArogyaMitra
-```
 
 ### 2. Backend
 
@@ -207,10 +201,10 @@ cd frontend && npm run cypress:open
 
 | Name | Role |
 |------|------|
-| **Pankaj Bhoge** | Team Lead — AI integration, AROMI, service architecture |
-| **Rohit Dake** | Developer — YouTube & Spoonacular APIs, environment setup |
-| **Dhiraj Dattaray Holkar** | Developer — JWT auth, routers, Zustand stores, AROMI frontend |
-| **Aditya Akolkar** | Developer — ORM models, Calendar API, all frontend pages |
+| **Akahad Ambekar** | Team Lead  |
+| **Rohit Dake** | Developer  |
+| **Archit Lende** | Developer  |
+| **Bhumika Chitte** | Developer  |
 
 ## 📄 License
 
